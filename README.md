@@ -1,4 +1,4 @@
-# Hi, I'm Danish 👋
+# Hi, I'm Danish Zulfiqar 👋
 ### AI/ML Engineer | LLMs · RAG · NLP · Computer Vision
 
 I build AI systems that reason, learn, and deliver 
