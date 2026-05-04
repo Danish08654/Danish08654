@@ -52,4 +52,4 @@ real results — from research to production deployment.
 ---
 
 ⭐ **Open to AI/ML Engineer roles — Full Time & Remote**
-📍 Sialkot, Pakistan | 🌍 Open to Remote Globally
+📍 Sialkot, Punjab, Pakistan | 🌍 Open to Remote Globally
