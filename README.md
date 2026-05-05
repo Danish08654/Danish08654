@@ -39,6 +39,11 @@ real results — from research to production deployment.
 
 ## 📊 GitHub Stats
 
+![Danish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Danish08654&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Danish08654&layout=compact&theme=tokyonight)
+
+---
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danish-zulfiqar-53884b24a/)
