@@ -40,8 +40,6 @@ real results — from research to production deployment.
 
 ![Danish's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Danish08654&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Danish08654&layout=compact&theme=tokyonight&cache_seconds=86400)
-
 ---
 
 ## 📫 Connect With Me
