@@ -32,7 +32,6 @@ real results — from research to production deployment.
 | [Mental Health Bot](https://github.com/Danish08654/Mental-health-chatbot) | Empathetic AI chatbot | DistilGPT2, HuggingFace | 69K conversations |
 | [BERT Classifier](https://github.com/Danish08654/BERT-News-Topic-Classifier) | News headline classifier | BERT, Streamlit | 80% accuracy |
 | [Health Chatbot](https://github.com/Danish08654/Health-Query-chatbot) | Medical query assistant | Mistral-7B, HuggingFace | Advanced prompting |
-| [Ticket Classifier](https://github.com/Danish08654/Auto-Tagging-Support-Tickets-using-LLM) | Auto ticket tagging | TF-IDF, NLP | 40% effort reduction |
 | [Admin Chatbot](https://github.com/Danish08654/Rule-Based-Admin-Chatbot) | Operations automation | Rule-based AI | 90% efficiency gain |
 
 ---
