@@ -24,18 +24,6 @@ real results — from research to production deployment.
 
 ---
 
-## 🔥 Featured Projects
-
-| Project | Description | Tech | Result |
-|---|---|---|---|
-| [RAG Chatbot](https://github.com/Danish08654/Context-Aware-Chatbot-Using-LangChain-and-RAG) | Context-aware QA system | LangChain, FAISS | 30% relevance gain |
-| [Mental Health Bot](https://github.com/Danish08654/Mental-health-chatbot) | Empathetic AI chatbot | DistilGPT2, HuggingFace | 69K conversations |
-| [BERT Classifier](https://github.com/Danish08654/BERT-News-Topic-Classifier) | News headline classifier | BERT, Streamlit | 80% accuracy |
-| [Health Chatbot](https://github.com/Danish08654/Health-Query-chatbot) | Medical query assistant | Mistral-7B, HuggingFace | Advanced prompting |
-| [Admin Chatbot](https://github.com/Danish08654/Rule-Based-Admin-Chatbot) | Operations automation | Rule-based AI | 90% efficiency gain |
-
----
-
 ## 📊 GitHub Stats## 📊 GitHub Stats
 
 ![Danish's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Danish08654&show_icons=true&theme=tokyonight&cache_seconds=86400)
