@@ -2,7 +2,7 @@
 ### AI | ML Engineer | 
 
 I build AI systems that reason, learn, and deliver 
-real results — from research to production deployment.
+real results from research to production deployment.
 
 ---
 
