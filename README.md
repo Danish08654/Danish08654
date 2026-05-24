@@ -18,7 +18,7 @@ I specialize in building **multi-domain AI solutions** across healthcare, financ
 
 ---
 
-## 🚀 Featured AI Systems I've Built
+##  Featured AI Systems I've Built
 
 ### 🤖 Generative AI & LLM Systems
 - AI Chatbots with Memory & Context (RAG-based)
