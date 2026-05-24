@@ -1,67 +1,76 @@
 # Hi, I'm Danish Zulfiqar  
-### AI | ML Engineer | Generative AI | LLM Systems Engineer  
+### AI Systems Engineer | Generative AI | LLM & Multi-Agent Architect  
 
-I build end-to-end AI systems that reason, predict, and automate real-world decision-making 
-from research prototypes to production-ready deployment.
+I design and build production-grade AI systems that reason, predict, and automate complex real-world decision-making —  
+from research prototypes to scalable, deployable AI products.
 
-I specialize in building **multi-domain AI solutions** across healthcare, finance, cybersecurity, supply chain, and generative AI systems.
-
----
-
-## 🧠 What I Build
-
-- 🤖 LLM Applications, RAG Systems & Multi-Agent AI Workflows  
-- 🧠 NLP Systems using Transformers (BERT, Mistral, Hugging Face)  
-- 👁️ Computer Vision & Medical Imaging AI (CNN, YOLO, OCR)  
-- 📊 Predictive ML Systems (Finance, Healthcare, Risk, Economics)  
-- ⚡ End-to-End ML Pipelines with Deployment (FastAPI, MLOps)
+My focus is on building **end-to-end intelligent systems** across LLMs, computer vision, predictive analytics, and enterprise AI automation.
 
 ---
 
-##  Featured AI Systems I've Built
+##  Core Expertise
 
-### 🤖 Generative AI & LLM Systems
-- AI Chatbots with Memory & Context (RAG-based)
-- LLM-powered Interview & Resume Screening Agents  
-- Multi-Agent Research Report Generation System  
-- Health Query Chatbot using Mistral-7B  
-- Customer Support Ticket Auto-Tagging using LLMs  
+- 🤖 Large Language Models (LLMs), RAG Pipelines & Multi-Agent Systems  
+- 🧠 NLP & Transformer Models (BERT, Mistral, Hugging Face Ecosystem)  
+- 👁️ Computer Vision & Medical Imaging AI (YOLO, CNNs, OCR Systems)  
+- 📊 Predictive Intelligence Systems (Finance, Healthcare, Risk, Forecasting)  
+- ⚡ Production ML Engineering (FastAPI, MLOps, Deployment Pipelines)
 
-### 👁️ Computer Vision & Document AI
-- YOLOv8 Real-time Object Detection Systems  
-- Medical Image Classification (Skin, COVID-19, X-ray Analysis)  
-- OCR-based Document-to-Structured Data Extraction  
-- Satellite Change Detection (Deforestation & Climate Monitoring)  
-- Rice Grain & Agricultural Image Classification  
+---
 
-### 📊 Predictive Analytics & ML Systems
-- Stock Price Prediction (Short-term forecasting models)  
-- Economic & Market Trend Forecasting Systems  
+##  Production AI Systems I've Built
+
+### 🤖 LLM & Generative AI Systems
+- RAG-based AI Chatbots with Long-Term Memory & Context Awareness  
+- LLM-powered Interview Intelligence & Resume Screening Systems  
+- Multi-Agent AI Systems for Automated Research Report Generation  
+- Health Query Assistant using Mistral-7B-Instruct  
+- Customer Support Ticket Classification using LLMs  
+
+---
+
+### 👁️ Computer Vision & Intelligent Perception Systems
+- Real-Time Object Detection using YOLOv8  
+- Medical Imaging AI for Disease Detection (X-ray, Skin, COVID-19)  
+- OCR-based Document Intelligence & Structured Data Extraction  
+- Satellite Image Change Detection for Environmental Monitoring  
+- Agricultural Image Classification (Rice Grain Quality Analysis)  
+
+---
+
+### 📊 Predictive Analytics & Decision Intelligence
+- Short-Term Stock Price Forecasting Systems  
+- Economic & Financial Trend Prediction Models  
 - Customer Churn Prediction (End-to-End ML Pipeline)  
-- Credit Scoring for Gig Workers with SHAP Explainability  
-- Intent Detection for Business Opportunity Scoring  
-- Smartphone Addiction Behavior Prediction  
-
-### 🏥 Healthcare AI Systems
-- Kidney, Liver & CBC Disease Prediction Models  
-- Clinical Trial Patient Matching System (NLP + Rules)  
-- Healthcare Analytics & Medical Decision Support Systems  
-- Empathetic Mental Health Response System  
-
-### 🌍 Risk, ESG & Intelligence Systems
-- Supply Chain Disruption Risk Prediction (31+ Signals)  
-- ESG Scope 3 Carbon Emission Estimation System  
-- Cyber Threat Detection System (Anomaly Detection AI)  
-- Air Traffic Forecasting System  
-
-### ⚙️ Automation & AI Systems
-- n8n WhatsApp Automation for Customer Engagement  
-- Plagiarism Detection using Semantic Similarity  
-- AI Resume Screening & Ranking Engine  
-- Admin-controlled Chatbot User Management System  
-- AI Search Visibility Analyzer for Brand Intelligence  
+- Credit Risk Scoring with Explainable AI (SHAP)  
+- Behavioral Intelligence Models (e.g., Smartphone Usage Prediction)  
 
 ---
+
+### 🏥 Healthcare AI & Clinical Intelligence
+- Multi-Disease Prediction Systems (Kidney, Liver, CBC Analysis)  
+- Clinical Trial Matching using NLP + Rule-Based Systems  
+- Healthcare Decision Support & Analytics Platforms  
+- Empathetic Mental Health Conversational AI  
+
+---
+
+### 🌍 Risk, ESG & Global Intelligence Systems
+- Supply Chain Risk Prediction using Multi-Signal AI Models  
+- ESG Scope 3 Carbon Emission Estimation System  
+- Cyber Threat Detection using Anomaly Detection Models  
+- Air Traffic Forecasting & Transportation Intelligence Systems  
+
+---
+
+### ⚙️ AI Automation & Applied Intelligence Systems
+- n8n-based WhatsApp Automation for Customer Engagement  
+- Semantic Plagiarism Detection using NLP Embeddings  
+- AI Resume Screening & Candidate Ranking Engine  
+- Admin-Controlled Intelligent Chatbot Systems  
+- AI-Based Brand & Search Visibility Intelligence Platform
+
+- --
 
 ## 🛠️ Tech Stack
 
