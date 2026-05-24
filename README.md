@@ -1,7 +1,7 @@
 # Hi, I'm Danish Zulfiqar  
 ### AI | ML Engineer | Generative AI | LLM Systems Engineer  
 
-I build end-to-end AI systems that reason, predict, and automate real-world decision-making —  
+I build end-to-end AI systems that reason, predict, and automate real-world decision-making 
 from research prototypes to production-ready deployment.
 
 I specialize in building **multi-domain AI solutions** across healthcare, finance, cybersecurity, supply chain, and generative AI systems.
