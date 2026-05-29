@@ -4,17 +4,16 @@
 I design and build production-grade AI systems that reason, predict, and automate complex real-world decision-making 
 from research prototypes to scalable, deployable AI products.
 
-My focus is on building **end-to-end intelligent systems** across LLMs, computer vision, predictive analytics, and enterprise AI automation.
 
 ---
 
 ##  Core Expertise
 
-- 🤖 Large Language Models (LLMs), RAG Pipelines & Multi-Agent Systems  
-- 🧠 NLP & Transformer Models (BERT, Mistral, Hugging Face Ecosystem)  
-- 👁️ Computer Vision & Medical Imaging AI (YOLO, CNNs, OCR Systems)  
-- 📊 Predictive Intelligence Systems (Finance, Healthcare, Risk, Forecasting)  
-- ⚡ Production ML Engineering (FastAPI, MLOps, Deployment Pipelines)
+- 🤖 Large Language Models, RAG Pipelines & Multi-Agent Systems  
+- 🧠 NLP & Transformer Models 
+- 👁️ Computer Vision & Medical Imaging AI 
+- 📊 Predictive Intelligence Systems 
+- ⚡ Production ML Engineering 
 
 ---
 
