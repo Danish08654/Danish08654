@@ -11,7 +11,7 @@ from research prototypes to scalable, deployable AI products.
 
 - 🤖 Large Language Models, RAG Pipelines & Multi-Agent Systems  
 - 🧠 NLP & Transformer Models 
-- 👁️ Computer Vision & Medical Imaging AI 
+- 👁️ Computer Vision 
 - 📊 Predictive Intelligence Systems 
 - ⚡ Production ML Engineering 
 
