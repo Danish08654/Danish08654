@@ -1,6 +1,8 @@
 # Hi, I'm Danish Zulfiqar  
 ### AI Engineer | Generative AI | LLM & Multi-Agent Architect  
 
+💡 *Building AI systems that create real business value, not just models.*
+
 I design and build production-grade AI systems that reason, predict, and automate complex real-world decision-making 
 from research prototypes to scalable, deployable AI products.
 
@@ -114,24 +116,6 @@ from research prototypes to scalable, deployable AI products.
 
 ---
 
-### 🌐 Automation / APIs / Tools
-- REST APIs
-- Webhooks (n8n)
-- LangChain Agents
-- Prompt Engineering
-- RAG Pipelines
-
----
-
-## 🎯 Focus Areas
-
-- Building production-ready AI systems  
-- Scalable LLM & RAG architectures  
-- Multimodal AI (Text + Image + Data fusion)  
-- Real-world ML applications with business impact  
-- AI automation and decision intelligence systems  
-
----
 
 ## 📊 GitHub Stats
 
@@ -146,6 +130,6 @@ from research prototypes to scalable, deployable AI products.
 
 ---
 
-⭐ **Open to AI/ML Engineer roles — Full Time & Remote**
-📍 Sialkot, Punjab, Pakistan | 🌍 Open to Remote Globally
+⭐ **Open to AI/ML Engineer roles — Full Time **
+📍 Sialkot, Punjab, Pakistan | 🌍 Open to Globally
 
