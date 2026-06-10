@@ -6,7 +6,6 @@
 I design and build production-grade AI systems that reason, predict, and automate complex real-world decision-making 
 from research prototypes to scalable, deployable AI products.
 
-
 ---
 
 ##  Core Expertise
@@ -130,7 +129,9 @@ from research prototypes to scalable, deployable AI products.
 
 📩 Email me directly: rana.danish54331@gmail.com
 
+
 ---
+
 
 ## 🐍 Contribution Snake 
 
@@ -138,7 +139,9 @@ from research prototypes to scalable, deployable AI products.
   <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
+
 ---
+
 
 ## 👀 Profile Views
 
@@ -148,6 +151,12 @@ from research prototypes to scalable, deployable AI products.
 
 ---
 
-⭐ **Open to AI/ML Engineer | LLM Engineer | Freelance projects | Contract work roles — Full Time **
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Danish08654&theme=react-dark" />
+</p>
+
+---
+
+⭐ **Open to AI | ML Engineer | LLM Engineer | Freelance projects | Contract work roles — Full Time **
 📍 Sialkot, Punjab, Pakistan | 🌍 Open to Globally
 
