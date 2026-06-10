@@ -157,6 +157,12 @@ from research prototypes to scalable, deployable AI products.
 
 ---
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Danish08654&theme=radical&row=1&column=6" />
+</p>
+
+---
+
 ⭐ **Open to AI | ML Engineer | LLM Engineer | Freelance projects | Contract work roles — Full Time **
 📍 Sialkot, Punjab, Pakistan | 🌍 Open to Globally
 
