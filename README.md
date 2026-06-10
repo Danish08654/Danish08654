@@ -127,9 +127,10 @@ from research prototypes to scalable, deployable AI products.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danish-zulfiqar-53884b24a/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/danishzulfiqar5050)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Danish08654)
+📩 Email me directly: rana.danish54331@gmail.com
 
 ---
 
-⭐ **Open to AI/ML Engineer roles — Full Time **
+⭐ **Open to AI/ML Engineer | LLM Engineer | Freelance projects | Contract work roles — Full Time **
 📍 Sialkot, Punjab, Pakistan | 🌍 Open to Globally
 
