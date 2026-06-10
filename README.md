@@ -132,6 +132,22 @@ from research prototypes to scalable, deployable AI products.
 
 ---
 
+## 🐍 Contribution Snake 
+
+<p align="center">
+  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Danish08654&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+---
+
 ⭐ **Open to AI/ML Engineer | LLM Engineer | Freelance projects | Contract work roles — Full Time **
 📍 Sialkot, Punjab, Pakistan | 🌍 Open to Globally
 
