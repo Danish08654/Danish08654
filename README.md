@@ -151,9 +151,7 @@ from research prototypes to scalable, deployable AI products.
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Danish08654&theme=react-dark" />
-</p>
+
 
 ---
 
