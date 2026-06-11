@@ -158,6 +158,10 @@ from research prototypes to scalable, deployable AI products.
 ---
 
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Danish08654&theme=radical&row=1&column=6" />
+</p>
+
 ---
 
 
