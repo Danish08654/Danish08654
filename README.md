@@ -72,49 +72,6 @@ from research prototypes to scalable, deployable AI products.
 
 - --
 
-## 🛠️ Tech Stack
-
-### 🤖 AI / ML / Deep Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-006600?style=flat)
-
----
-
-### 🧠 Generative AI / LLM Stack
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat)
-![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=flat)
-![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat)
-![Mistral](https://img.shields.io/badge/Mistral_7B-6B7280?style=flat)
-![LLaMA](https://img.shields.io/badge/LLaMA_Models-4B5563?style=flat)
-
----
-
-### 👁️ Computer Vision
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLOv8-FFCC00?style=flat)
-![PIL](https://img.shields.io/badge/Pillow-000000?style=flat)
-
----
-
-### ⚙️ Backend / Deployment / MLOps
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
----
-
-### 📊 Data / Analytics / Tools
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat)
-
----
-
 
 ## 📊 GitHub Stats
 
