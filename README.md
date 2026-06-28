@@ -1,7 +1,6 @@
 # Hi, I'm Danish Zulfiqar  
 ### AI Engineer | Generative AI | LLM & Multi-Agent Architect  
 
-💡 *Building AI systems that create real business value, not just models.*
 
 I design and build production-grade AI systems that reason, predict, and automate complex real-world decision-making 
 from research prototypes to scalable, deployable AI products.
