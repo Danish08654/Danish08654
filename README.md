@@ -1,118 +1,192 @@
-# Hi, I'm Danish Zulfiqar  
+<div align="center">
 
+```
+██████╗  █████╗ ███╗   ██╗██╗███████╗██╗  ██╗
+██╔══██╗██╔══██╗████╗  ██║██║██╔════╝██║  ██║
+██║  ██║███████║██╔██╗ ██║██║███████╗███████║
+██║  ██║██╔══██║██║╚██╗██║██║╚════██║██╔══██║
+██████╔╝██║  ██║██║ ╚████║██║███████║██║  ██║
+╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚══════╝╚═╝  ╚═╝
+```
 
-I design and build production-grade AI systems that reason, predict, and automate complex real-world decision-making 
-from research prototypes to scalable, deployable AI products.
+# Danish Zulfiqar
+### AI Engineer · Research-to-Production · Systems That Reason
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=LLM+%26+Multi-Agent+Systems+Engineer;Computer+Vision+%26+NLP+Specialist;Production+ML+%7C+RAG+%7C+Predictive+AI;Building+AI+that+reasons%2C+predicts%2C+automates)](https://git.io/typing-svg)
 
-##  Core Expertise
+<img src="https://komarev.com/ghpvc/?username=danishzulfiqar&label=Profile+Views&color=6366f1&style=flat" alt="profile views" />
 
-- 🤖 Large Language Models, RAG Pipelines & Multi-Agent Systems  
-- 🧠 NLP & Transformer Models 
-- 👁️ Computer Vision 
-- 📊 Predictive Intelligence Systems 
-- ⚡ Production ML Engineering 
-
----
-
-##  Production AI Systems I've Built
-
-### 🤖 LLM & Generative AI Systems
-- RAG-based AI Chatbots with Long-Term Memory & Context Awareness  
-- LLM-powered Interview Intelligence & Resume Screening Systems  
-- Multi-Agent AI Systems for Automated Research Report Generation  
-- Health Query Assistant using Mistral-7B-Instruct  
-- Customer Support Ticket Classification using LLMs  
+</div>
 
 ---
 
-### 👁️ Computer Vision & Intelligent Perception Systems
-- Real-Time Object Detection using YOLOv8  
-- Medical Imaging AI for Disease Detection (X-ray, Skin, COVID-19)  
-- OCR-based Document Intelligence & Structured Data Extraction  
-- Satellite Image Change Detection for Environmental Monitoring  
-- Agricultural Image Classification (Rice Grain Quality Analysis)  
+## ⚡ What I Build
+
+> *I design and build production-grade AI systems that reason, predict, and automate complex real-world decision-making — from research prototypes to scalable, deployable AI products.*
 
 ---
 
-### 📊 Predictive Analytics & Decision Intelligence
-- Short-Term Stock Price Forecasting Systems  
-- Economic & Financial Trend Prediction Models  
-- Customer Churn Prediction (End-to-End ML Pipeline)  
-- Credit Risk Scoring with Explainable AI (SHAP)  
-- Behavioral Intelligence Models (e.g., Smartphone Usage Prediction)  
+## 🧠 Core Expertise
+
+<div align="center">
+
+| Domain | Skills |
+|--------|--------|
+| 🤖 **Generative AI** | LLMs · RAG Pipelines · Multi-Agent Systems · Prompt Engineering |
+| 🧬 **NLP & Transformers** | Fine-tuning · Embeddings · Semantic Search · Classification |
+| 👁️ **Computer Vision** | YOLOv8 · Medical Imaging · OCR · Satellite Analysis |
+| 📊 **Predictive ML** | Forecasting · Risk Scoring · Churn Prediction · Explainable AI |
+| ⚙️ **Production ML** | End-to-End Pipelines · Model Deployment · API Design · Automation |
+
+</div>
 
 ---
 
-### 🏥 Healthcare AI & Clinical Intelligence
-- Multi-Disease Prediction Systems (Kidney, Liver, CBC Analysis)  
-- Clinical Trial Matching using NLP + Rule-Based Systems  
-- Healthcare Decision Support & Analytics Platforms  
-- Empathetic Mental Health Conversational AI  
+## 🚀 Production AI Systems
+
+<details>
+<summary><b>🤖 LLM & Generative AI Systems</b></summary>
+<br>
+
+| System | Description |
+|--------|-------------|
+| **RAG-based AI Chatbots** | Long-Term Memory & Context-Aware Conversational AI |
+| **Interview Intelligence** | LLM-powered Resume Screening & Candidate Ranking Engine |
+| **Multi-Agent Research** | Automated Research Report Generation via Agent Collaboration |
+| **Health Query Assistant** | Medical Q&A powered by Mistral-7B-Instruct |
+| **Ticket Classification** | Customer Support Automation using LLMs |
+
+</details>
+
+<details>
+<summary><b>👁️ Computer Vision & Intelligent Perception</b></summary>
+<br>
+
+| System | Description |
+|--------|-------------|
+| **Real-Time Object Detection** | YOLOv8-powered detection for live environments |
+| **Medical Imaging AI** | Disease detection from X-ray, Skin, COVID-19 scans |
+| **Document Intelligence** | OCR-based structured data extraction pipeline |
+| **Satellite Change Detection** | Environmental monitoring via image diff models |
+| **Agricultural Classification** | Rice grain quality analysis from image data |
+
+</details>
+
+<details>
+<summary><b>📊 Predictive Analytics & Decision Intelligence</b></summary>
+<br>
+
+| System | Description |
+|--------|-------------|
+| **Stock Price Forecasting** | Short-term price prediction using time-series ML |
+| **Economic Trend Prediction** | Financial signal modeling & macro trend intelligence |
+| **Customer Churn Prediction** | End-to-end ML pipeline with business impact scoring |
+| **Credit Risk Scoring** | Explainable AI with SHAP-based model interpretability |
+| **Behavioral Intelligence** | Smartphone usage pattern prediction models |
+
+</details>
+
+<details>
+<summary><b>🏥 Healthcare AI & Clinical Intelligence</b></summary>
+<br>
+
+| System | Description |
+|--------|-------------|
+| **Multi-Disease Prediction** | Kidney, Liver & CBC analysis for clinical support |
+| **Clinical Trial Matching** | NLP + Rule-Based patient-trial matching engine |
+| **Healthcare Decision Support** | Analytics platform for clinical decision-making |
+| **Mental Health AI** | Empathetic conversational agent for emotional support |
+
+</details>
+
+<details>
+<summary><b>🌍 Risk, ESG & Global Intelligence</b></summary>
+<br>
+
+| System | Description |
+|--------|-------------|
+| **Supply Chain Risk** | Multi-signal AI model for supply chain disruption prediction |
+| **ESG Carbon Estimation** | Scope 3 emission estimation system using AI modeling |
+| **Cyber Threat Detection** | Anomaly detection models for cybersecurity intelligence |
+| **Air Traffic Forecasting** | Transportation demand & airflow prediction engine |
+
+</details>
+
+<details>
+<summary><b>⚙️ AI Automation & Applied Intelligence</b></summary>
+<br>
+
+| System | Description |
+|--------|-------------|
+| **WhatsApp Automation** | n8n-based AI pipeline for customer engagement at scale |
+| **Plagiarism Detection** | Semantic similarity using NLP embeddings |
+| **Resume Screening Engine** | AI-powered candidate ranking with scoring logic |
+| **Intelligent Chatbot** | Admin-controlled contextual chatbot system |
+| **Brand Visibility Intelligence** | AI-based search & brand visibility analytics platform |
+
+</details>
 
 ---
 
-### 🌍 Risk, ESG & Global Intelligence Systems
-- Supply Chain Risk Prediction using Multi-Signal AI Models  
-- ESG Scope 3 Carbon Emission Estimation System  
-- Cyber Threat Detection using Anomaly Detection Models  
-- Air Traffic Forecasting & Transportation Intelligence Systems  
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages & Frameworks**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**AI / ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Infrastructure & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+</div>
 
 ---
 
-### ⚙️ AI Automation & Applied Intelligence Systems
-- n8n-based WhatsApp Automation for Customer Engagement  
-- Semantic Plagiarism Detection using NLP Embeddings  
-- AI Resume Screening & Candidate Ranking Engine  
-- Admin-Controlled Intelligent Chatbot Systems  
-- AI-Based Brand & Search Visibility Intelligence Platform
+## 📈 GitHub Stats
 
-- --
+<div align="center">
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=danishzulfiqar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danishzulfiqar&layout=compact&langs_count=8&theme=tokyonight"/>
 
-## 📊 GitHub Stats
+</div>
 
-![Danish's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Danish08654&show_icons=true&theme=tokyonight&cache_seconds=86400)
+<div align="center">
 
----
+[![GitHub Streak](https://streak-stats.demolab.com?user=danishzulfiqar&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
 
-## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danish-zulfiqar-53884b24a/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/danishzulfiqar5050)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Danish08654)
-
-📩 Email me directly: rana.danish54331@gmail.com
-
+</div>
 
 ---
 
+## 🤝 Let's Connect
 
-## 🐍 Contribution Snake 
+<div align="center">
 
-<p align="center">
-  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" />
-</p>
-
-
----
-
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Danish08654&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danishzulfiqar)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danish@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://danishzulfiqar.dev)
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Danish08654&theme=react-dark" />
-</p>
+*"Intelligence isn't about knowing everything — it's about building systems that learn everything."*
 
----
-
-
-⭐ **Open to AI | ML Engineer | LLM Engineer | Freelance projects | Contract work roles — Full Time **
-📍 Sialkot, Punjab, Pakistan | 🌍 Open to Globally
-
+</div>
