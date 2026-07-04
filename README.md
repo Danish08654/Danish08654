@@ -160,33 +160,54 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=danishzulfiqar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danishzulfiqar&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=danishzulfiqar&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
-
-</div>
+![Danish's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Danish08654&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
 ---
 
-## 🤝 Let's Connect
+## 📫 Connect With Me
 
-<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danish-zulfiqar-53884b24a/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danishzulfiqar)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danish@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://danishzulfiqar.dev)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/danishzulfiqar5050)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Danish08654)
+
+📩 Email me directly: rana.danish54331@gmail.com
 
 ---
 
-*"Intelligence isn't about knowing everything — it's about building systems that learn everything."*
+## 🐍 Contribution Snake 
 
-</div>
+<p align="center">
+
+  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" />
+
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+
+  <img src="https://komarev.com/ghpvc/?username=Danish08654&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+
+</p>
+
+---
+
+<p align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Danish08654&theme=react-dark" />
+
+</p>
+
+---
+
+⭐ **Open to AI | ML Engineer | LLM Engineer | Freelance projects | Contract work roles — Full Time **
+
+📍 Sialkot, Punjab, Pakistan | 🌍 Open to Globally
+
+
