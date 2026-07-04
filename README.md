@@ -14,7 +14,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=LLM+%26+Multi-Agent+Systems+Engineer;Computer+Vision+%26+NLP+Specialist;Production+ML+%7C+RAG+%7C+Predictive+AI;Building+AI+that+reasons%2C+predicts%2C+automates)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=danishzulfiqar&label=Profile+Views&color=6366f1&style=flat" alt="profile views" />
 
 </div>
 
