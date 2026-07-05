@@ -198,28 +198,28 @@
 
 ---
 
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=150&section=footer)
+
+</div> 
+
+----
+
+## 📊 GitHub Stats
+
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=danishzulfiqar&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+![Danish's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Danish08654&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
 </div>
 
 ---
 
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=200&section=footer)
-
-</div> 
-
-
-## 📊 GitHub Stats
-
-![Danish's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Danish08654&show_icons=true&theme=tokyonight&cache_seconds=86400)
+<div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=danishzulfiqar&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
 
-
----
+</div>
 
 ## 📫 Connect With Me
 
