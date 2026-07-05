@@ -191,9 +191,6 @@
 **Infrastructure & Tools**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -213,20 +210,6 @@
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=danishzulfiqar&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danishzulfiqar/danishzulfiqar/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danishzulfiqar/danishzulfiqar/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/danishzulfiqar/danishzulfiqar/output/github-snake.svg" />
-</picture>
 
 </div>
 
