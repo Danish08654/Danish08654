@@ -228,8 +228,11 @@
 ## 📊 GitHub Stats
 
 ![Danish's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Danish08654&show_icons=true&theme=tokyonight&cache_seconds=86400)
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danishzulfiqar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danishzulfiqar&layout=compact&langs_count=8&theme=tokyonight"/>
+
 ---
 
 ## 📫 Connect With Me
