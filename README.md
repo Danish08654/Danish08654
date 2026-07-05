@@ -215,38 +215,10 @@
 
 ---
 
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danishzulfiqar)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danishzulfiqar)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/danishzulfiqar)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com/freelancers/danishzulfiqar)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danish@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://danishzulfiqar.dev)
-
-<br>
-
-💬 **Open to** — Freelance Projects · AI Consulting · Research Collaborations · Full-time Roles
-
----
-
-*"Intelligence isn't about knowing everything — it's about building systems that learn everything."*
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer)
 
 </div> 
-
-
-**Infrastructure & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-
-</div>
-
----
 
 
 ## 📊 GitHub Stats
