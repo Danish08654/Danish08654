@@ -198,6 +198,7 @@
 
 ---
 
+
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -206,6 +207,9 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danishzulfiqar&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
+
+----
+
 
 <div align="center">
 
@@ -216,7 +220,7 @@
 ---
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=200&section=footer)
 
 </div> 
 
@@ -270,5 +274,3 @@
 ⭐ **Open to AI | ML Engineer | LLM Engineer | Freelance projects | Contract work roles — Full Time **
 
 📍 Sialkot, Punjab, Pakistan | 🌍 Open to Globally
-
-
