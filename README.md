@@ -218,14 +218,6 @@
 
 ---
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=danishzulfiqar&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
-
-</div>
-
----
-
 
 ## 📫 Connect With Me
 
