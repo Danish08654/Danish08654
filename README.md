@@ -135,7 +135,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Reactjs](https://img.shields.io/badge/Reactjs-F7DF1E?style=for-the-badge&logo=Reactjs&logoColor=black)
+![React](https://img.shields.io/badge/React-F7DF1E?style=for-the-badge&logo=React&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 **LLM Providers & APIs**
