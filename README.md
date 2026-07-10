@@ -215,8 +215,6 @@
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/danishzulfiqar5050)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Danish08654)
-
 ---
 
 ## 🐍 Contribution Snake 
