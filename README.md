@@ -217,8 +217,6 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Danish08654)
 
-📩 Email me directly: rana.danish54331@gmail.com
-
 ---
 
 ## 🐍 Contribution Snake 
