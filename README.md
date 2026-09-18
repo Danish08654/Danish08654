@@ -182,17 +182,6 @@
 
 ----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-  ![Danish's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Danish08654&show_icons=true&theme=tokyonight&cache_seconds=86400)
-
-
-</div>
-
----
-
 
 ## 📫 Connect With Me
 
@@ -222,13 +211,6 @@
 
 ---
 
-<p align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Danish08654&theme=react-dark" />
-
-</p>
-
----
 
 ⭐ **Open to AI | ML Engineer | LLM Engineer | Full Time **
 
